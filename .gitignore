@@ -13,8 +13,8 @@ age-of-tower-desktop/bin/
 age-of-tower-desktop/data/
 age-of-tower-android/gen/
 age-of-tower-android/bin/
-age-of-tower/bin/
-
+LgdxOcv/bin/
+.metadata/
 # Local configuration file (sdk path, etc)
 local.properties
 

@@ -13,8 +13,10 @@ LgdxOcvAndroid/bin/
 LgdxOcvAndroid/data/
 LgdxOcvAndroid/gen/
 LgdxOcvAndroid/bin/
+LgdxOcvAndroid/.settings/
 
 LgdxOcv/bin/
+LgdxOcv/.settings/
 
 OpenCV-2.4.6-android-sdk/
 

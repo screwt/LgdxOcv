@@ -9,11 +9,15 @@
 *.class
 
 # generated files
-age-of-tower-desktop/bin/
-age-of-tower-desktop/data/
-age-of-tower-android/gen/
-age-of-tower-android/bin/
+LgdxOcvAndroid/bin/
+LgdxOcvAndroid/data/
+LgdxOcvAndroid/gen/
+LgdxOcvAndroid/bin/
+
 LgdxOcv/bin/
+
+OpenCV-2.4.6-android-sdk/
+
 .metadata/
 # Local configuration file (sdk path, etc)
 local.properties
